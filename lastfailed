@@ -1,0 +1,6 @@
+{
+  "tests/test_amazon_integration.py": true,
+  "tests/test_customer_agent.py": true,
+  "tests/test_database.py": true,
+  "tests/test_recommendation_agent.py": true
+}
